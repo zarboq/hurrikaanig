@@ -1,0 +1,4 @@
+- 👋 Hi, I’m TurcFort07
+- 👀 I’m interested in Crypto and Blockchain
+- 🌱 I’m currently learning Cairo and Solidity
+- 💞️ I’m looking to collaborate on anything related to crypto
