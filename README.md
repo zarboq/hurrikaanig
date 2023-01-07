@@ -1,5 +1,5 @@
 
-<h2> Hi, I'm TurcFort07! <img src="https://media.tenor.com/TYNpGhXizs0AAAAC/wrecksmgee-hajime.gif" width="150"></h2>
+<h2> Hi, I'm TurcFort07! <img src="https://media.tenor.com/TYNpGhXizs0AAAAC/wrecksmgee-hajime.gif" width="100"></h2>
 
 
 ## &#x1f4c8; GitHub Stats
