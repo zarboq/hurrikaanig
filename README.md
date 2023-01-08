@@ -1,7 +1,7 @@
 
 <h2> Hi, I'm TurcFort07! </h2>
 
-<img align='left' src="https://media.tenor.com/TYNpGhXizs0AAAAC/wrecksmgee-hajime.gif" width="230">
+<p><img align='left' src="https://media.tenor.com/TYNpGhXizs0AAAAC/wrecksmgee-hajime.gif" width="230"></p>
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/hurrikaanig/hurrikaanig">
