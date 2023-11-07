@@ -1,14 +1,1 @@
-
-<h2> Hi, I'm zarboq! </h2>
-
-<img align='right' src="https://media.tenor.com/TYNpGhXizs0AAAAC/wrecksmgee-hajime.gif" width="230">
-
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/zarboq">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarboq&hide=java,kotlin,html,tex,vue,javascript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/zarboq">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zarboq&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zarboq's GitHub Stats" />
-</a>
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1f60e133-58e7-4fb7-8b82-3791aeebec0b/dae6ddo-1896f01f-e2d0-47d2-800b-4fa0af08cdc9.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFmNjBlMTMzLTU4ZTctNGZiNy04YjgyLTM3OTFhZWViZWMwYlwvZGFlNmRkby0xODk2ZjAxZi1lMmQwLTQ3ZDItODAwYi00ZmEwYWYwOGNkYzkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cdileMGfElMBPwI4We8WHmXpAV8XXfjHT_mr6ZjHwWw" width="100%"/>
